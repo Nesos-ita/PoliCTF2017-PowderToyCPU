@@ -6,7 +6,7 @@ TL;DR: Custom homemade CPU
   
 ## ~~Program~~ CPU description  
   
-![screenshot]({{ site.url }}/screenshot.png)  
+![screenshot](screenshot.png)  
   
 This CPU is a save file of Powder Toy;  
 From the [website](http://powdertoy.co.uk/): "The Powder Toy is a free physics sandbox game... The game provides you with various building materials, liquids, gases **and electronic components**"  
